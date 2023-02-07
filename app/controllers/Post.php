@@ -1,12 +1,8 @@
 <?php 
 namespace app\controllers;
 
-use vendor\core\base\Controller;
-
-class Post extends Controller{
+class Post extends App {
     
- 
-
     public function indexAction()
     {
         echo 'index';
@@ -21,5 +17,5 @@ class Post extends Controller{
     {
         echo 'before';
     }
-
+    
 }

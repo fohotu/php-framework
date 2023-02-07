@@ -1,10 +1,13 @@
 <?php 
 namespace app\controllers;
-class Main{
+class Main extends App{
 
-    public function __construct()
+    public function indexAction()
     {
-        echo "Main";
+        $this->layout = 'main';
+        $this->view = 'test';
+        $this->set(['name'=>'Farkhod 1','title'=>'Hello Title']);
+        
     }
 
 }
