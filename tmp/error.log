@@ -1,0 +1,9 @@
+[2023-02-08 10:53:39] Text Error: set_exception_handler() expects the argument (vendor\core\ErrorHandler::exceptionHandler) to be a valid callback | File : /Users/user/Desktop/pr/custom_fw/vendor/core/ErrorHandler.php),
+        Line: 17[2023-02-08 10:53:39] Text Error: set_exception_handler() expects the argument (vendor\core\ErrorHandler::exceptionHandler) to be a valid callback | File : /Users/user/Desktop/pr/custom_fw/vendor/core/ErrorHandler.php),
+        Line: 17[2023-02-08 10:56:36] Text Error: set_exception_handler() expects the argument (vendor\core\ErrorHandler::exceptionHandler) to be a valid callback | File : /Users/user/Desktop/pr/custom_fw/vendor/core/ErrorHandler.php),
+        Line: 17[2023-02-08 10:56:36] Text Error: set_exception_handler() expects the argument (vendor\core\ErrorHandler::exceptionHandler) to be a valid callback | File : /Users/user/Desktop/pr/custom_fw/vendor/core/ErrorHandler.php),
+        Line: 17[2023-02-08 10:57:38] Text Error: set_exception_handler() expects the argument (vendor\core\ErrorHandler::exceptionHandler) to be a valid callback | File : /Users/user/Desktop/pr/custom_fw/vendor/core/ErrorHandler.php),
+        Line: 17[2023-02-08 10:57:38] Text Error: set_exception_handler() expects the argument (vendor\core\ErrorHandler::exceptionHandler) to be a valid callback | File : /Users/user/Desktop/pr/custom_fw/vendor/core/ErrorHandler.php),
+        Line: 17[2023-02-08 10:57:39] Text Error: set_exception_handler() expects the argument (vendor\core\ErrorHandler::exceptionHandler) to be a valid callback | File : /Users/user/Desktop/pr/custom_fw/vendor/core/ErrorHandler.php),
+        Line: 17[2023-02-08 10:57:39] Text Error: set_exception_handler() expects the argument (vendor\core\ErrorHandler::exceptionHandler) to be a valid callback | File : /Users/user/Desktop/pr/custom_fw/vendor/core/ErrorHandler.php),
+        Line: 17

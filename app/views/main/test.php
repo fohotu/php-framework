@@ -2,8 +2,13 @@
 
 
 ?>
+
+
 <div class="container">
-    <button class="btn btn-info" onClick="send()" id="send">Send</button>
+<?php 
+      new vendor\widgets\menu\Menu();
+    ?>
+<button class="btn btn-info" onClick="send()" id="send">Send</button>
     <div class="panel panel-default">
     <?php 
     foreach($posts as $post){
